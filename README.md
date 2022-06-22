@@ -1,4 +1,4 @@
-# neural_dependency_parsing
+# machine_translation
 This project has been slightly adapted from an assignment in Chris Manning's class at Stanford called Deep Learning for NLP, aka  XCS224N. 
 
 The goal of the assignment was to perform a Cherokee-to-English translation task, as originally described in [Zhang et al (2020)](https://arxiv.org/abs/2010.04791)
